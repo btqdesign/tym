@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OT Portfolios\n"
+"POT-Creation-Date: 2018-10-03 10:18-0500\n"
+"PO-Revision-Date: 2018-10-03 10:22-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ot_portfolio.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ot_portfolio.php:27 ot_portfolio.php:28 ot_portfolio.php:38
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: ot_portfolio.php:29 ot_portfolio.php:30
+msgid "Add New Portfolio"
+msgstr "Agregar Nuevo portafolio"
+
+#: ot_portfolio.php:31
+msgid "Edit Portfolio"
+msgstr "Editar portafolio"
+
+#: ot_portfolio.php:32
+msgid "New Portfolio"
+msgstr "Nuevo portafolio"
+
+#: ot_portfolio.php:33
+msgid "View Portfolio"
+msgstr "Ver portafolio"
+
+#: ot_portfolio.php:34
+msgid "Search Portfolios"
+msgstr "Buscar portafolios"
+
+#: ot_portfolio.php:35
+msgid "No Portfolios found"
+msgstr "No se encontraron portafolios"
+
+#: ot_portfolio.php:36
+msgid "No Portfolios found in Trash"
+msgstr "No se encontraron portafolios en la papelera"
+
+#: ot_portfolio.php:37
+msgid "Parent Portfolio:"
+msgstr "Portafolio de padre:"
+
+#: ot_portfolio.php:75 ot_portfolio.php:76 ot_portfolio.php:85
+msgid "Categories"
+msgstr "Categorías"
+
+#: ot_portfolio.php:77
+msgid "Search Categories"
+msgstr "Buscar Categorías"
+
+#: ot_portfolio.php:78
+msgid "All Categories"
+msgstr "Todas las Categorías"
+
+#: ot_portfolio.php:79
+msgid "Parent Categories"
+msgstr "Categorías primarias de nivel superior"
+
+#: ot_portfolio.php:80
+msgid "Parent Categories:"
+msgstr "Categorías primarias de nivel superior"
+
+#: ot_portfolio.php:81
+msgid "Edit Categories"
+msgstr "Editar categorías"
+
+#: ot_portfolio.php:82
+msgid "Update Categories"
+msgstr "Actualizar categorías"
+
+#: ot_portfolio.php:83
+msgid "Add New Categories"
+msgstr "Agregar nuevas categorías"
+
+#: ot_portfolio.php:84
+msgid "New Categories Name"
+msgstr "Nombre de las nuevas categorías"
+
+#: ot_portfolio.php:110 ot_portfolio.php:111 ot_portfolio.php:120
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ot_portfolio.php:112
+msgid "Search Tags"
+msgstr "Buscar etiquetas"
+
+#: ot_portfolio.php:113
+msgid "All Tags"
+msgstr "Todas las Etiquetas"
+
+#: ot_portfolio.php:114
+msgid "Parent Tags"
+msgstr "Etiquetas padre"
+
+#: ot_portfolio.php:115
+msgid "Parent Tags:"
+msgstr "Etiquetas padre:"
+
+#: ot_portfolio.php:116
+msgid "Edit Tags"
+msgstr "Editar etiquetas"
+
+#: ot_portfolio.php:117
+msgid "Update Tags"
+msgstr "Actualizar etiquetas"
+
+#: ot_portfolio.php:118
+msgid "Add New Tags"
+msgstr "Agregar nuevas etiquetas"
+
+#: ot_portfolio.php:119
+msgid "New Tags Name"
+msgstr "Nuevo nombre de etiquetas"
+
+#: template/single-portfolio.php:50
+msgid "prev"
+msgstr "Anterior "
+
+#: template/single-portfolio.php:51
+msgid "next"
+msgstr "siguiente"
+
+#: template/taxonomy-categories.php:11
+#, php-format
+msgid "Category Archives Portfolio: %s"
+msgstr "Categoría archivos portafolio: %s"
+
+#: template/taxonomy-categories.php:23
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#. Plugin Name of the plugin/theme
+msgid "OT Portfolios"
+msgstr "Portafolio de OT"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://oceanthemes.net/"
+msgstr "http://oceanthemes.net/"
+
+#. Description of the plugin/theme
+msgid ""
+"Declares a plugin that will create a custom post type displaying portfolio."
+msgstr ""
+"Declara un plugin que creará una vista de entrada personalizada para el "
+"Portafolio"
+
+#. Author of the plugin/theme
+msgid "OceanThemes Team"
+msgstr "Equipo de OceanThemes"
