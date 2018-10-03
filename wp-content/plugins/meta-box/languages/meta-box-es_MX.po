@@ -1,0 +1,898 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Box\n"
+"POT-Creation-Date: 2018-10-03 11:00-0500\n"
+"PO-Revision-Date: 2018-10-03 11:02-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: meta-box.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/about/about.php:50
+msgid "About"
+msgstr "Acerca de"
+
+#. Plugin Name of the plugin/theme
+#: inc/about/about.php:62 inc/about/about.php:63
+#, fuzzy
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/about/about.php:78
+#, fuzzy
+msgid "Welcome to Meta Box"
+msgstr "Bienvenido a meta Box"
+
+#: inc/about/about.php:79
+#, fuzzy
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: inc/about/about.php:157
+#, fuzzy, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+"Por favor, califique <strong> meta Box </strong> < a href = \"%1$s\" target "
+"= \"_blank\" > & #9733; & #9733; & #9733; & #9733; & #9733; </a> en < a href "
+"= \"%1$s\" target = \"_blank\" > WordPress. org </a> que nos ayude a "
+"difundir la palabra. ¡ Gracias del equipo meta Box!"
+
+#: inc/about/sections/extensions.php:11
+#, fuzzy
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary! Save over 70% with our extensions bundles."
+msgstr ""
+"Extender los campos personalizados en WordPress mucho más allá de lo que "
+"otros nunca consideraría ordinario! Ahorre más de 70% con nuestros paquetes "
+"de extensiones."
+
+#: inc/about/sections/extensions.php:11
+#, fuzzy
+msgid "View Bundles"
+msgstr "Ver paquetes"
+
+#: inc/about/sections/extensions.php:19
+#, fuzzy
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+"Arrastre y suelte sus campos personalizados en su lugar sin una sola línea "
+"de código."
+
+#: inc/about/sections/extensions.php:23 inc/about/sections/extensions.php:47
+#: inc/about/sections/extensions.php:59 inc/about/sections/extensions.php:71
+#: inc/about/sections/extensions.php:83 inc/about/sections/extensions.php:95
+#: inc/about/sections/extensions.php:107 inc/about/sections/extensions.php:119
+#: inc/about/sections/extensions.php:131 inc/about/sections/extensions.php:143
+#: inc/about/sections/extensions.php:215 inc/about/sections/extensions.php:227
+#: inc/about/sections/extensions.php:239 inc/about/sections/extensions.php:287
+#: inc/about/sections/extensions.php:299 inc/about/sections/extensions.php:311
+#: inc/about/sections/extensions.php:323 inc/about/sections/extensions.php:335
+#: inc/about/sections/getting-started.php:23
+#, fuzzy
+msgid "Learn More"
+msgstr "Saber más"
+
+#: inc/about/sections/extensions.php:31
+#, fuzzy
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+"Cree y administre fácilmente los tipos de post personalizados en WordPress "
+"con una interfaz fácil de usar."
+
+#: inc/about/sections/extensions.php:35 inc/about/sections/extensions.php:155
+#: inc/about/sections/extensions.php:167 inc/about/sections/extensions.php:179
+#: inc/about/sections/extensions.php:191 inc/about/sections/extensions.php:203
+#: inc/about/sections/extensions.php:251 inc/about/sections/extensions.php:263
+#: inc/about/sections/extensions.php:275 inc/about/sections/extensions.php:347
+#, fuzzy
+msgid "Free Download"
+msgstr "Descarga gratuita"
+
+#: inc/about/sections/extensions.php:43
+#, fuzzy
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+"Crear grupos repetibles de campos personalizados para una mejor apariencia y "
+"estructura."
+
+#: inc/about/sections/extensions.php:55
+#, fuzzy
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+"Crear una página de configuración de gran alcance para su tema, plugin o "
+"sitio Web."
+
+#: inc/about/sections/extensions.php:67
+#, fuzzy
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+"Controla la visibilidad de las cajas meta y de los campos o incluso de los "
+"elementos HTML con facilidad."
+
+#: inc/about/sections/extensions.php:79
+#, fuzzy
+msgid "Easily add custom fields to categories, tags or any custom taxonomy."
+msgstr ""
+"Agregue fácilmente campos personalizados a categorías, etiquetas o cualquier "
+"taxonomía personalizada."
+
+#: inc/about/sections/extensions.php:91
+#, fuzzy
+msgid ""
+"Add custom fields to user profile (user meta) quickly with simple syntax."
+msgstr ""
+"Agregar campos personalizados al perfil de usuario (meta de usuario) "
+"rápidamente con sintaxis simple."
+
+#: inc/about/sections/extensions.php:103
+#, fuzzy
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+"Crear registros, iniciar sesión y editar formularios de Perfil de usuario en "
+"el frontend. Incrustar en todas partes con shortcodes."
+
+#: inc/about/sections/extensions.php:115
+#, fuzzy
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+"Cree formularios frontend para que los usuarios envíen contenido "
+"personalizado. Incrustar en todas partes con código."
+
+#: inc/about/sections/extensions.php:127
+#, fuzzy
+msgid "Add as many custom fields as you want and organize them into tabs."
+msgstr "Añada tantos campos personalizados como desee y organice en fichas."
+
+#: inc/about/sections/extensions.php:139
+#, fuzzy
+msgid ""
+"Save custom fields data to custom table instead of the default meta tables. "
+"Reduce database size and increase performance."
+msgstr ""
+"Guarde los datos de los campos personalizados en la tabla personalizada en "
+"lugar de las metatablas predeterminadas. Reduzca el tamaño de la base de "
+"datos y aumente el rendimiento."
+
+#: inc/about/sections/extensions.php:151
+#, fuzzy
+msgid "Pull all meta value from posts, terms into the WP REST API responses."
+msgstr ""
+"Tire de todo el meta valor de los mensajes, los términos en las respuestas "
+"de PM Rest API."
+
+#: inc/about/sections/extensions.php:163
+#, fuzzy
+msgid ""
+"A lightweight WordPress plugin for creating many-to-many relationships "
+"between posts, terms and users."
+msgstr ""
+"Un plugin de WordPress ligero para crear relaciones de muchos a muchos entre "
+"los mensajes, los términos y los usuarios."
+
+#: inc/about/sections/extensions.php:175
+#, fuzzy
+msgid ""
+"Integrates Meta Box and FacetWP, makes custom fields searchable and "
+"filterable in the frontend."
+msgstr ""
+"Integra meta Box y FacetWP, hace que los campos personalizados se busquen y "
+"filtren en el frontend."
+
+#: inc/about/sections/extensions.php:187
+#, fuzzy
+msgid ""
+"Select and show custom fields created by the Meta Box plugin in the Beaver "
+"Themer field connection."
+msgstr ""
+"Seleccione y muestre los campos personalizados creados por el plugin meta "
+"Box en la conexión de campo de Beaver."
+
+#: inc/about/sections/extensions.php:199
+#, fuzzy
+msgid ""
+"Add custom fields to comments in WordPress. Support all field types and "
+"options."
+msgstr ""
+"Agregar campos personalizados a los comentarios en WordPress. Soporte para "
+"todos los tipos de campo y opciones."
+
+#: inc/about/sections/extensions.php:211
+#, fuzzy
+msgid ""
+"Track changes of custom fields with WordPress revision. Save, compare, "
+"restore the changes easily."
+msgstr ""
+"Seguimiento de los cambios de los campos personalizados con revisión de "
+"WordPress. Guarde, compare, restaure los cambios fácilmente."
+
+#: inc/about/sections/extensions.php:223
+#, fuzzy
+msgid ""
+"Automatically and instantly populate location data with the power of Google "
+"Maps Geolocation API."
+msgstr ""
+"Rellene automáticamente e instantáneamente los datos de ubicación con la "
+"potencia de la API de geolocalización de Google Maps."
+
+#: inc/about/sections/extensions.php:235
+#, fuzzy
+msgid ""
+"Display custom fields in table columns in admin screens for All Posts "
+"(types)."
+msgstr ""
+"Mostrar campos personalizados en columnas de tabla en pantallas de "
+"administración para todos los mensajes (tipos)."
+
+#: inc/about/sections/extensions.php:247
+#, fuzzy
+msgid ""
+"Add content of custom fields to Yoast SEO Content Analysis to have better/"
+"correct SEO score."
+msgstr ""
+"Añadir contenido de los campos personalizados a Yoast SEO análisis de "
+"contenido para tener mejor/correcta puntuación SEO."
+
+#: inc/about/sections/extensions.php:259
+#, fuzzy
+msgid ""
+"Limit the number of characters or words entered for text and textarea fields."
+msgstr ""
+"Limite el número de caracteres o palabras ingresadas para los campos texto y "
+"área de campo."
+
+#: inc/about/sections/extensions.php:271
+#, fuzzy
+msgid ""
+"Automatically updates all Meta Box extensions within the WordPress Admin "
+"area."
+msgstr ""
+"Actualiza automáticamente todas las extensiones de meta Box dentro del área "
+"de administración de WordPress."
+
+#: inc/about/sections/extensions.php:283
+#, fuzzy
+msgid "Define custom meta boxes and custom fields easier with templates."
+msgstr ""
+"Defina las cajas meta personalizadas y los campos personalizados con las "
+"plantillas."
+
+#: inc/about/sections/extensions.php:295
+#, fuzzy
+msgid "Display help information for fields using beautiful tooltips."
+msgstr ""
+"Mostrar información de ayuda para los campos que utilizan herramientas de "
+"Descripción hermosas."
+
+#: inc/about/sections/extensions.php:307
+#, fuzzy
+msgid "Toggle meta boxes by page template, post format or taxonomy using JS."
+msgstr ""
+"Alternar cajas meta por plantilla de página, formato de post o taxonomía "
+"usando JS."
+
+#: inc/about/sections/extensions.php:319
+#, fuzzy
+msgid "Display fields more beautiful by putting them into 12-columns grid."
+msgstr ""
+"Muestre los campos más hermosos poniéndolos en cuadrícula de 12 columnas."
+
+#: inc/about/sections/extensions.php:331
+#, fuzzy
+msgid "Show or hide meta boxes whenever and for whomever you choose."
+msgstr "Mostrar u ocultar las cajas meta cuando y para quien usted elija."
+
+#: inc/about/sections/extensions.php:343
+#, fuzzy
+msgid ""
+"Create and manage custom taxonomies with an easy-to-use interface in "
+"WordPress."
+msgstr ""
+"Cree y administre taxonomías personalizadas con una interfaz fácil de usar "
+"en WordPress."
+
+#: inc/about/sections/getting-started.php:12
+#, fuzzy
+msgid "Getting Started With Online Generator"
+msgstr "Introducción al generador en línea"
+
+#: inc/about/sections/getting-started.php:13
+#, fuzzy
+msgid ""
+"The fastest way to getting started with Meta Box is use our online generator "
+"to generate meta boxes with custom fields. It provides a friendly UI for you "
+"to create meta boxes and custom fields just by drag and drop fields."
+msgstr ""
+"La forma más rápida de empezar con meta Box es utilizar nuestro generador en "
+"línea para generar meta boxes con campos personalizados. Proporciona una "
+"interfaz de usuario amigable para que usted cree meta boxes y campos "
+"personalizados sólo por arrastrar y soltar campos."
+
+#: inc/about/sections/getting-started.php:15
+#, fuzzy
+msgid "online generator"
+msgstr "generador en línea"
+
+#: inc/about/sections/getting-started.php:17
+#, fuzzy
+msgid "Go to Online Generator"
+msgstr "Ir al generador en línea"
+
+#: inc/about/sections/getting-started.php:21
+#, fuzzy
+msgid "Understand The Basics"
+msgstr "Entender lo básico"
+
+#: inc/about/sections/getting-started.php:22
+#, fuzzy
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+"Meta Box no tiene ninguna página de administración para configuración o "
+"configuración. En lugar de eso, proporciona una API muy potente para "
+"acelerar el proceso de creación de cajas meta y campos personalizados. Puede "
+"que te tome un poco de tiempo al principio, pero entonces te encantará la "
+"forma en que funciona porque te ayuda a hacer y personalizar casi todo."
+
+#: inc/about/sections/getting-started.php:25 inc/about/sections/tabs.php:12
+#: inc/about/sections/welcome.php:20 inc/core.php:39
+#, fuzzy
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: inc/about/sections/getting-started.php:26
+#, fuzzy
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+"¿quieres ver más características que transforman tu sitio web wordpress en "
+"un potente CMS? Vea algunas extensiones abajo:"
+
+#: inc/about/sections/getting-started.php:28
+#, fuzzy
+msgid "Meta Box Group"
+msgstr "Grupo meta Box"
+
+#: inc/about/sections/getting-started.php:29
+#, fuzzy
+msgid "Meta Box Conditional Logic"
+msgstr "Lógica condicional de meta Box"
+
+#: inc/about/sections/getting-started.php:30
+#, fuzzy
+msgid "MB Settings Page"
+msgstr "Página de configuración de MB"
+
+#: inc/about/sections/getting-started.php:31
+#, fuzzy
+msgid "MB Term Meta"
+msgstr "MB term meta"
+
+#: inc/about/sections/getting-started.php:33
+#, fuzzy
+msgid "More Extensions"
+msgstr "Más extensiones"
+
+#: inc/about/sections/newsletter.php:11
+#, fuzzy
+msgid "Meta Box Newsletter"
+msgstr "Boletín de meta Box"
+
+#: inc/about/sections/newsletter.php:13
+#, fuzzy
+msgid ""
+"Want to learn how to use Meta Box to its full potential? Sign up to get "
+"valuable tips and resources. We will never spam you."
+msgstr ""
+"¿quieres aprender a usar meta Box a todo su potencial? Regístrate para "
+"obtener valiosos consejos y recursos. Nunca te vamos a spam."
+
+#: inc/about/sections/newsletter.php:15
+#, fuzzy
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: inc/about/sections/support.php:13
+#, fuzzy
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: inc/about/sections/support.php:14
+#, fuzzy
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+"Si tienes alguna pregunta sobre cómo usar el plugin, por favor abre un nuevo "
+"tema en el foro de soporte de WordPress.org o abre un nuevo número en github "
+"(preferible). Trataremos de responder tan pronto como podamos."
+
+#: inc/about/sections/support.php:15
+#, fuzzy
+msgid "Go to Github"
+msgstr "Ir a github"
+
+#: inc/about/sections/support.php:16
+#, fuzzy
+msgid "Go to WordPress.org"
+msgstr "Ir a WordPress.org"
+
+#: inc/about/sections/support.php:20
+#, fuzzy
+msgid "Premium Support"
+msgstr "Soporte Premium"
+
+#: inc/about/sections/support.php:21
+#, fuzzy
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+"Para los usuarios que han comprado extensiones Premium, el soporte se "
+"proporciona en el foro de soporte de meta Box. Cualquier pregunta será "
+"contestada con los detalles técnicos en el plazo de 24 horas."
+
+#: inc/about/sections/support.php:22
+#, fuzzy
+msgid "Go to support forum"
+msgstr "Ir al foro de soporte"
+
+#: inc/about/sections/tabs.php:10
+#, fuzzy
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/about/sections/tabs.php:13 inc/about/sections/welcome.php:21
+#, fuzzy
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/about/sections/upgrade.php:10
+#, fuzzy
+msgid "Upgrade to Meta Box PRO"
+msgstr "Upgrade a meta Box Pro"
+
+#: inc/about/sections/upgrade.php:11
+#, fuzzy
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+"Por favor actualice al plan Pro para desbloquear características más "
+"impresionantes."
+
+#: inc/about/sections/upgrade.php:13
+#, fuzzy
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+"Crear campos personalizados con la interfaz de arrastrar y soltar-¡ no se "
+"requiere ningún conocimiento de codificación!"
+
+#: inc/about/sections/upgrade.php:14
+#, fuzzy
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Agregar campos personalizados a taxonomías o Perfil de usuario."
+
+#: inc/about/sections/upgrade.php:15
+#, fuzzy
+msgid "Create custom settings pages."
+msgstr "Crear páginas de configuración personalizadas."
+
+#: inc/about/sections/upgrade.php:16
+#, fuzzy
+msgid "Create frontend submission forms."
+msgstr "Crear formularios de presentación de frontend."
+
+#: inc/about/sections/upgrade.php:17
+#, fuzzy
+msgid "Save custom fields in custom tables."
+msgstr "Guardar campos personalizados en tablas personalizadas."
+
+#: inc/about/sections/upgrade.php:18
+#, fuzzy
+msgid "And much more!"
+msgstr "¡ y mucho más!"
+
+#: inc/about/sections/upgrade.php:20
+#, fuzzy
+msgid "Get Meta Box PRO now"
+msgstr "Get meta Box Pro ahora"
+
+#: inc/about/sections/welcome.php:13
+#, fuzzy, php-format
+msgid "Welcome to %s"
+msgstr "Bienvenid@ a %s"
+
+#: inc/about/sections/welcome.php:16
+#, fuzzy
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+"Meta Box es un libre de Gutenberg y GDPR-compatible WordPress campos "
+"personalizados plugin y Framework que hace el trabajo rápido de personalizar "
+"un sitio web con-lo adivinó-meta boxes y campos personalizados en WordPress. "
+"Siga las instrucciones de abajo para empezar!"
+
+#: inc/about/sections/welcome.php:19 inc/core.php:38
+#, fuzzy
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/field.php:396
+#, fuzzy
+msgid "+ Add more"
+msgstr "+ Añadir más"
+
+#: inc/fields/autocomplete.php:20 inc/fields/autocomplete.php:81
+#: inc/fields/autocomplete.php:93
+#, fuzzy
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/fields/background.php:58
+#, fuzzy
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/fields/background.php:70
+#, fuzzy
+msgid "-- Background Repeat --"
+msgstr "--repetición del fondo--"
+
+#: inc/fields/background.php:72
+#, fuzzy
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: inc/fields/background.php:73
+#, fuzzy
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: inc/fields/background.php:74
+#, fuzzy
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: inc/fields/background.php:75
+#, fuzzy
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: inc/fields/background.php:76 inc/fields/background.php:110
+#: inc/fields/background.php:122
+#, fuzzy
+msgid "Inherit"
+msgstr "Heredar"
+
+#: inc/fields/background.php:86
+msgid "-- Background Position --"
+msgstr "--posición de fondo--"
+
+#: inc/fields/background.php:88
+#, fuzzy
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: inc/fields/background.php:89
+#, fuzzy
+msgid "Top Center"
+msgstr "Arriba Centro"
+
+#: inc/fields/background.php:90
+#, fuzzy
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: inc/fields/background.php:91
+#, fuzzy
+msgid "Center Left"
+msgstr "Centrado Izquierda"
+
+#: inc/fields/background.php:92
+#, fuzzy
+msgid "Center Center"
+msgstr "Centro del centro"
+
+#: inc/fields/background.php:93
+#, fuzzy
+msgid "Center Right"
+msgstr "Centro a la derecha"
+
+#: inc/fields/background.php:94
+#, fuzzy
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: inc/fields/background.php:95
+#, fuzzy
+msgid "Bottom Center"
+msgstr "Parte inferior central"
+
+#: inc/fields/background.php:96
+#, fuzzy
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: inc/fields/background.php:106
+#, fuzzy
+msgid "-- Background Attachment --"
+msgstr "--accesorio del fondo--"
+
+#: inc/fields/background.php:108
+#, fuzzy
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/fields/background.php:109
+#, fuzzy
+msgid "Scroll"
+msgstr "Pegajoso cuando se desplaza hacia arriba"
+
+#: inc/fields/background.php:120
+msgid "-- Background Size --"
+msgstr "--tamaño de fondo--"
+
+#: inc/fields/background.php:123
+#, fuzzy
+msgid "Cover"
+msgstr "Cubrir"
+
+#: inc/fields/background.php:124
+#, fuzzy
+msgid "Contain"
+msgstr "Contenedor"
+
+#: inc/fields/button.php:32
+#, fuzzy
+msgid "Click me"
+msgstr "Clickeame"
+
+#: inc/fields/checkbox.php:53
+#, fuzzy
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/fields/checkbox.php:53
+#, fuzzy
+msgid "No"
+msgstr "No"
+
+#: inc/fields/file-input.php:20
+#, fuzzy
+msgid "Select File"
+msgstr "Seleccionar Archivo"
+
+#: inc/fields/file-input.php:39 inc/fields/select.php:86
+#, fuzzy
+msgid "Select"
+msgstr "Seleccionar"
+
+#: inc/fields/file-input.php:41
+#, fuzzy
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/file.php:21
+#, fuzzy, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Sólo se puede cargar máximo de %d archivo"
+
+#: inc/fields/file.php:23
+#, fuzzy, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Sólo se puede cargar un máximo de %d archivos"
+
+#: inc/fields/file.php:53
+#, fuzzy
+msgid "Error: Cannot delete file"
+msgstr "Error: No se puede eliminar el archivo"
+
+#: inc/fields/file.php:66
+#, fuzzy
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Agregar nuevo archivo"
+
+#: inc/fields/file.php:121
+#, fuzzy
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/fields/file.php:122
+#, fuzzy
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/input-list.php:88
+#, fuzzy
+msgid "Select All / None"
+msgstr "Seleccionar Todo/Ninguna"
+
+#: inc/fields/key-value.php:132
+#, fuzzy
+msgid "Key"
+msgstr "%s (no válido)"
+
+#: inc/fields/key-value.php:133
+#, fuzzy
+msgid "Value"
+msgstr "Valor"
+
+#: inc/fields/map.php:46 inc/fields/osm.php:24
+#, fuzzy
+msgid "No results found"
+msgstr "No se Encontraron Resultados"
+
+#: inc/fields/map.php:77 inc/fields/osm.php:56
+#, fuzzy
+msgid "Find Address"
+msgstr "Buscar dirección"
+
+#: inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Añadir multimedia"
+
+#: inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr " archivo"
+
+#: inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr " archivos"
+
+#: inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr "Ver"
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr "(sin título)"
+
+#: inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr "Seleccionar Archivos"
+
+#: inc/fields/media.php:34
+msgctxt "media"
+msgid "or"
+msgstr "o"
+
+#: inc/fields/media.php:35
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Arrastrar aquí los archivos para subir"
+
+#: inc/fields/oembed.php:22
+#, fuzzy
+msgid "Embed HTML not available."
+msgstr "HTML añadido no disponible."
+
+#: inc/fields/post.php:32
+#, fuzzy
+msgid "Select a post"
+msgstr "Seleccione una publicación"
+
+#: inc/fields/post.php:38 inc/fields/taxonomy.php:50
+#, fuzzy, php-format
+msgid "Select a %s"
+msgstr "Selecciona un %s"
+
+#: inc/fields/select-advanced.php:45
+#, fuzzy
+msgid "Select an item"
+msgstr "Selecciona un artículo"
+
+#: inc/fields/select.php:86
+#, fuzzy
+msgid "All"
+msgstr "Todo"
+
+#: inc/fields/select.php:86
+#, fuzzy
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/fields/sidebar.php:21
+#, fuzzy
+msgid "Select a sidebar"
+msgstr "Seleccionar Barra lateral izquierda"
+
+#: inc/fields/switch.php:90
+#, fuzzy
+msgid "On"
+msgstr "Encendido"
+
+#: inc/fields/switch.php:91
+#, fuzzy
+msgid "Off"
+msgstr "Apagado"
+
+#: inc/fields/taxonomy.php:44
+#, fuzzy
+msgid "Select a term"
+msgstr "Seleccionar un término"
+
+#: inc/fields/user.php:22
+#, fuzzy
+msgid "Select an user"
+msgstr "Seleccionar un usuario"
+
+#: inc/validation.php:47
+#, fuzzy
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+"Por favor, corrige los errores que a continuación se destacan y vuelve a "
+"intentarlo."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://metabox.io"
+msgstr "https://Metabox.IO"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "Crear cajas meta personalizadas y campos personalizados en WordPress."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "MetaBox.io"
+msgstr "MetaBox.IO"
