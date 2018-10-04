@@ -2081,7 +2081,7 @@ body.royal_loader {
   align-items: center;
 }
 .experience-year span {
-  font-size: 250px;
+  font-size: 100px;
   color: #ff7400;
   font-weight: bold;
   display: inline-block;
@@ -2094,7 +2094,7 @@ body.royal_loader {
   margin-top: -15px;
 }
 .experience-year strong {
-  font-size: 50px;
+  font-size: 40px;
   color: #333131;
   letter-spacing: 4px;
   line-height: 65px;
