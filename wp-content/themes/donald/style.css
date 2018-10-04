@@ -303,7 +303,6 @@ blockquote{
   position: relative;
   color: #999494;
   white-space: nowrap;
-  display: none;
 }
 .ot-btn:hover,
 .ot-btn:focus {
