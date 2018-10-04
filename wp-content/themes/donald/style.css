@@ -497,7 +497,7 @@ header {
 /* Button Search Header */
 .btn-search-header {
   position: relative;
-  display: none;
+  display: inline-block;
   line-height: 100px;
   padding: 0 25px;
   font-size: 20px;
