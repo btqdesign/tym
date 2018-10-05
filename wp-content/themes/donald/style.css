@@ -512,6 +512,7 @@ header {
 }
 .btn-search-header > span {
   cursor: pointer;
+  display:none;
 }
 .btn-search-header span.open {
   position: fixed;
