@@ -1,5 +1,6 @@
 *.log
 wp-config.php
+wp-config-sample.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
@@ -22,9 +23,7 @@ _notes
 *.swp
 *_log
 logs
-.tmb
-.tmb/*
+.tmp
+.tmp/*
 
 btq-info.php
-
-
