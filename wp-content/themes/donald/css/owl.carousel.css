@@ -21,19 +21,23 @@
 @-webkit-keyframes fadeOut {
   0% {
     opacity: 1;
+    -webkit-transform: translate3d(0px, 0px, 0px);
   }
 
   100% {
     opacity: 0;
+    -webkit-transform: translate3d(0px, 0px, 0px);
   }
 }
 @keyframes fadeOut {
   0% {
     opacity: 1;
+    -webkit-transform: translate3d(0px, 0px, 0px);
   }
 
   100% {
     opacity: 0;
+    -webkit-transform: translate3d(0px, 0px, 0px);
   }
 }
 
@@ -76,7 +80,6 @@
   position: relative;
   overflow: hidden;
   /* fix for flashing background */
-  -webkit-transform: translate3d(0px, 0px, 0px);
 }
 .owl-carousel .owl-controls .owl-nav .owl-prev,
 .owl-carousel .owl-controls .owl-nav .owl-next,
