@@ -22,9 +22,7 @@ _notes
 *.swp
 *_log
 logs
-.tmb
-.tmb/*
+.tmp
+.tmp/*
 
 btq-info.php
-
-
