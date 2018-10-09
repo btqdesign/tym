@@ -1764,9 +1764,11 @@ h3.title-with-sub {
 }
 .btn-1.prev {
   left: 60px;
+  display: none;
 }
 .btn-1.next {
   right: 60px;
+  display: none;
 }
 .pagination{
   vertical-align: top;
